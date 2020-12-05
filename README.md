@@ -5,7 +5,10 @@ Process is:
   1. Train Stage 1. 
   2. Train Stage 2. 
   3. Train stage 3 using weights from stage 1 and stage 2.
-  
+ 
+ 
+Use the following command to train the models from scratch.
+
 ```  
 python train.py --datapath path_to_data --ckpt_path path_to_save_weights --stage stage_of_training
 ```
