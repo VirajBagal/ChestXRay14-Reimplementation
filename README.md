@@ -8,4 +8,4 @@ Process is:
 ```  
 python train.py --datapath path_to_data --ckpt_path path_to_save_weights --stage stage_of_training
 ```
-![alt text](https://github.com/VirajBagal/ChestXRay14-Reimplementation/images/model.png?raw=true)
+![alt text](https://github.com/VirajBagal/ChestXRay14-Reimplementation/master/images/model.png?raw=true)
